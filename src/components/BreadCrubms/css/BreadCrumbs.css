@@ -1,0 +1,52 @@
+.breadcrumbs-base {
+    vertical-align: top;
+    padding: 20px 0 0;
+}
+
+.search-base h4, .search-base ul, .search-rightContainer {
+    padding-left: 0;
+}
+
+.breadcrumbs-list {
+    font-size: 14px;
+    overflow: hidden;
+    display: inline-block;
+    margin: 0 0 0 25px;
+    vertical-align: top;
+}
+
+.breadcrumbs-item {
+    font-size: 14px;
+    display: inline-block;
+    float: left;
+    margin-right: 5px;
+    text-transform: capitalize;
+    line-height: 1;
+}
+
+.breadcrumbs-crumb {
+    text-decoration: none;
+    color: #282c3f;
+    text-transform: capitalize;
+}
+
+a {
+    text-decoration: none;
+    color: #282c3f;
+}
+
+a {
+    background-color: transparent;
+}
+
+.breadcrumbs-item:after {
+    font-size: 14px;
+    content: "/";
+    margin-left: 5px;
+    color: #282c3f;
+}
+
+*, :after, :before {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+}

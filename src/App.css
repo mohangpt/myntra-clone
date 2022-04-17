@@ -27,6 +27,36 @@
 .App-link {
   color: #61dafb;
 }
+.search-base h4, .search-base ul, .search-rightContainer {
+  padding-left: 0
+}
+.search-leftContainer {
+  min-width: 252px;
+  max-width: 252px;
+  -webkit-box-flex: 0!important;
+  -ms-flex-positive: 0!important;
+  flex-grow: 0!important;
+}
+
+.row-base{
+  display: flexbox;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-pack: start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
+  -ms-flex-line-pack: stretch;
+  align-content: stretch;
+}
 
 @keyframes App-logo-spin {
   from {

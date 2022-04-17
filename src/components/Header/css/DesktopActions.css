@@ -1,0 +1,49 @@
+/*! CSS Used from: Embedded */
+a{background-color:transparent;}
+a:active,a:hover{outline-width:0;}
+*,:after,:before{-webkit-box-sizing:inherit;box-sizing:inherit;}
+.myntraweb-sprite{background:url(https://constant.myntassets.com/web/assets/img/MyntraWebSprite_27_01_2021.png);background-size:1404px 105px;display:inline-block;}
+.sprites-headerBag{width:22px;height:22px;background-position:-341px -56px;}
+.sprites-headerWishlist{width:17px;height:22px;background-position:-315px -187px;}
+.sprites-headerUser{width:24px;height:24px;background-position:-298px -56px;}
+.desktop-superscriptTag{width:25px;height:7px;padding:5px 0 0 5px;background:#ff3f6c!important;border:1px solid #ff3f6c!important;color:#fff;font-weight:900;margin:-6px 0 -10px 10px;font-size:10px;-webkit-transform:skewX(-10deg);transform:skewX(-10deg);display:inline-block;border-radius:2px;}
+.desktop-iconUser{margin:10px 0 0;position:absolute;bottom:13px;left:5px;display:block;}
+.desktop-user{position:relative;height:60px;margin:0 20px 0 15px;}
+.desktop-userIconsContainer{display:-webkit-box;display:-ms-flexbox;padding:0 12px 0 17px;position:relative;display:flex;height:40px;}
+.desktop-userTitle{color:#000;position:absolute;bottom:4px;left:1px;font-size:12px;font-weight:500;display:inline-block;padding-top:10px;line-height:6px;}
+.desktop-user:hover .desktop-userActions{visibility:visible;opacity:1;}
+.desktop-actions{float:right;display:-webkit-box;display:-ms-flexbox;display:flex;line-height:0;height:40px;margin:20px 30px 0 10px;}
+.desktop-cart{margin:0 50px 0 15px;}
+.desktop-cart,.desktop-wishlist{display:-webkit-box;display:-ms-flexbox;display:flex;text-decoration:none;position:relative;}
+.desktop-wishlist{margin:0 55px 0 10px;}
+.desktop-iconBag{left:-1px;}
+.desktop-iconBag,.desktop-iconWishlist{margin:8px 0 0;position:absolute;bottom:14px;}
+.desktop-iconWishlist{left:13px;}
+.desktop-badge{white-space:nowrap;text-align:center;line-height:18px;padding:0 6px;height:18px;background:#ff3f6c;position:absolute;border-radius:50%;font-size:12px;color:#fff;left:13px;top:-2px;font-weight:700;}
+.desktop-grey{background-color:#7e818c;visibility:hidden;}
+.desktop-grey:before{border-right-color:#7e818c;}
+.desktop-userActions{width:250px;left:-137.5px;top:62px;position:absolute;padding:25px 20px 15px;z-index:9;-webkit-box-shadow:0 1px 10px rgba(0,0,0,.08);box-shadow:0 1px 10px rgba(0,0,0,.08);-webkit-transition:opacity .2s ease-out,visibility .2s ease-out;transition:opacity .2s ease-out,visibility .2s ease-out;background-color:#fff;color:#3e4152;border:1px solid #f5f5f6;visibility:hidden;opacity:0;margin:-2px 0;}
+.desktop-userActionsArrow{display:block;top:-5px;position:absolute;width:58px;border-bottom:4px solid #f16565;left:124px;}
+.desktop-userActionsContent{display:block;}
+.desktop-contentInfo{display:block;padding-bottom:2px;}
+.desktop-infoTitle{font-weight:500;height:20px;}
+.desktop-infoEmail,.desktop-infoTitle{font-size:14px;width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:10px;}
+.desktop-infoEmail{height:14px;color:#282c3f;}
+.desktop-info{font-weight:400;font-size:14px;color:#3e4152;}
+.desktop-infoSection{margin:0;cursor:pointer;padding:15px 0 10px!important;}
+.desktop-infoSection:hover{font-weight:500;}
+.desktop-getInLinks{display:inline-block;width:100%;padding:10px 0;border-top:1px solid #eaeaec;}
+.desktop-getUserInLinks{border:none;}
+.desktop-linkButton{display:inline-block;padding:18px 20px;margin:10px 10px 0 0;border:1px solid #eaeaec;border-radius:2px;text-align:center;text-transform:uppercase;font-size:14px;color:#ff3f6c;font-weight:500;}
+.desktop-linkButton:hover{border:1px solid #ff3f6c;}
+.desktop-linkButton:first-child{margin:0 5px 6px 0;}
+@media (max-width:1400px){
+.desktop-actions{margin-right:0;}
+}
+@media (max-width:1250px){
+.desktop-actions{margin-right:0;}
+}
+@media (max-width:1199px){
+.desktop-actions{margin-right:0;width:170px;}
+}
+a{text-decoration:none;color:#282c3f;}

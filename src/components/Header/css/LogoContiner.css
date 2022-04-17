@@ -1,0 +1,12 @@
+/*! CSS Used from: Embedded */
+a{background-color:transparent;}
+a:active,a:hover{outline-width:0;}
+*,:after,:before{-webkit-box-sizing:inherit;box-sizing:inherit;}
+.myntraweb-sprite{background:url(https://constant.myntassets.com/web/assets/img/MyntraWebSprite_27_01_2021.png);background-size:1404px 105px;display:inline-block;}
+.sprites-headerLogo{width:53px;height:36px;background-position:-462px 0;}
+.desktop-logoContainer{float:left;height:inherit;margin-left:4%;}
+.desktop-logo{display:inline-block;vertical-align:middle;padding:0;margin:0;cursor:pointer;}
+@media (max-width:1250px){
+.desktop-logoContainer{margin-left:2%;}
+}
+a{text-decoration:none;color:#282c3f;}

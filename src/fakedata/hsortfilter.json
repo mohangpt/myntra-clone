@@ -1,0 +1,26 @@
+[
+    {
+        "value": "new",
+        "name": "What's New "
+    },
+    {
+        "value": "popularity",
+        "name": "Popularity"
+    },
+    {
+        "value": "discount",
+        "name": "Better Discount"
+    },
+    {
+        "value": "price_desc",
+        "name": "Price: High to"
+    },
+    {
+        "value": "price_asc",
+        "name": "Price: Low to High"
+    },
+    {
+        "value": "Customer_Rating",
+        "name": "Customer Rating "
+    }
+]

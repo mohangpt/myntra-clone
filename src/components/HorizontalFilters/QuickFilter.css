@@ -1,0 +1,19 @@
+/*! CSS Used from: Embedded */
+input{font:inherit;}
+input{overflow:visible;}
+input{margin:0;}
+input::-moz-focus-inner{border:0;padding:0;}
+input:-moz-focusring{outline:1px dotted ButtonText;}
+[type=radio]{box-sizing:border-box;padding:0;}
+*,:after,:before{-webkit-box-sizing:inherit;box-sizing:inherit;}
+ul{list-style:none;}
+.myntraweb-sprite{background:url(https://constant.myntassets.com/web/assets/img/MyntraWebSprite_27_01_2021.png);background-size:1404px 105px;display:inline-block;}
+.sprites-arrowDownBold{background-position:-2679px -89px;width:15px;height:15px;}
+.atsa-filters{font-size:14px;display:-webkit-box;display:-ms-flexbox;display:flex;color:#282c3f;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-flow:row wrap;flex-flow:row wrap;margin:-10px 0 0 16px;}
+.atsa-filters li{margin-right:4px;margin-bottom:0;margin-top:10px;cursor:pointer;}
+.atsa-filters input{display:none;}
+.atsa-filters label{position:relative;padding:5px 8px 5px 10px;}
+.atsa-downArrow{vertical-align:middle;-webkit-transform:scale(.8);transform:scale(.8);margin-left:4px;}
+.atsa-filters label:hover{border-radius:20px;background-color:#f4f4f5;}
+.atsa-base label{cursor:pointer;white-space:nowrap;}
+.atsa-title{font-weight:400;margin:0;display:inline-block;}

@@ -1,0 +1,24 @@
+[
+  {
+    "nameOfFilter": "BRAND",
+    "data": [
+      { "name": "Puma", "count": 1607 },
+      { "name": "Roadster", "count": 2310 },
+      { "name": "HRX by Hrithik Roshan", "count": 1436 },
+      { "name": "WROGN", "count": 1351 },
+      { "name": "QUANCIOUS", "count": 1256 },
+      { "name": "SPYKAR", "count": 1197 },
+      { "name": "Friskers", "count": 1160 },
+      { "name": "U.S. Polo Assn.", "count": 1062 }
+    ]
+  },
+  {
+    "nameOfFilter": "PRICE",
+    "data": [
+      { "name": "Rs. 199 to Rs. 2024", "count": 66580 },
+      { "name": "Rs. 2024 to Rs. 3849", "count": 2515 },
+      { "name": "Rs. 3849 to Rs. 5674", "count": 266 },
+      { "name": "Rs. 5674 to Rs. 7499", "count": 32 }
+    ]
+  }
+]
